@@ -1,2 +1,2 @@
 # Uas-Pemrograman-dasar
-file
+pembayaran pajak
